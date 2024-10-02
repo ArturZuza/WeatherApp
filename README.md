@@ -1,2 +1,4 @@
 # WeatherApp
-Um aplicativo feito em python para disponibilizar informações climáticas em tempo real de qualquer cidade no Planeta!
+Aplicativo para obter informacoes climaticas de qualquer cidade do planeta terra em tempo real.
+
+O app foi desenvolvido em Python, usando a biblioteca "Requests" além da utilização da API "OpenWeatherMap" junto dos módulos python "Tkinter" e "Time"
